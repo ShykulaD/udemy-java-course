@@ -3,17 +3,10 @@
  */
 public class Animal {
 
-    public int age;
+     int animalInt;
 
-    public void getAge() {
-        System.out.println(age);
-    }
 
-    public void setAge(int age) {
-        this.age = age;
-    }
-
-    public void voice() {
+    public void voiceAnimal() {
         System.out.println("Voice Animal");
     }
 }

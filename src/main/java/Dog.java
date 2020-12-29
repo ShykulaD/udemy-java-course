@@ -3,7 +3,9 @@
  */
 public class Dog extends  Animal {
 
-    public void voice() {
+    public int dogInt;
+
+    public void voiceDog() {
         System.out.println("Voice Dog");
     }
 }

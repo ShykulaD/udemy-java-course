@@ -4,9 +4,8 @@
 public class Program {
 
     public static void main(String[] args) {
-        Animal dog = new Animal();
-        dog.setAge(2);
-        dog.getAge();
-
+        Animal dog = new Dog();
+        dog.animalInt = 4;
+        System.out.println(dog.animalInt);
     }
 }
