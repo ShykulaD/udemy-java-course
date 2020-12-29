@@ -35,7 +35,6 @@
     <list default="true" id="c4f624f1-332c-4b9b-a11c-df2d2c738793" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Program.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609238966092</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1609245767831</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609245767832</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,9 +152,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created  and pushed project" />
-    <MESSAGE value="test" />
     <MESSAGE value="Merge branch 'master' of https://github.com/ShykulaD/udemy-java-course&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/ShykulaD/udemy-java-course&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="224" y="-959" key="#Project_Structure" timestamp="1601712533683">
@@ -163,31 +169,31 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="493" y="319" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1609238954347" />
-    <state x="446" y="0" key="CommitChangelistDialog2" timestamp="1609238965950">
+    <state x="446" y="0" width="903" height="900" key="CommitChangelistDialog2" timestamp="1609245767651">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="347" y="-956" key="CommitChangelistDialog2/0.0.1440.900/-288.-1080.2048.1080@-288.-1080.2048.1080" timestamp="1601713089127" />
-    <state x="446" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1609238965950" />
+    <state x="446" y="0" width="903" height="900" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1609245767651" />
     <state x="585" y="-636" key="Github.ShareDialog" timestamp="1601712697441">
       <screen x="-288" y="-1080" width="2048" height="1080" />
     </state>
     <state x="585" y="-636" key="Github.ShareDialog/0.0.1440.900/-288.-1080.2048.1080@-288.-1080.2048.1080" timestamp="1601712697441" />
-    <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1609244669140">
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1609245769585">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609244669140" />
-    <state width="1398" height="238" key="GridCell.Tab.0.center" timestamp="1609244669139">
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609245769585" />
+    <state width="1398" height="238" key="GridCell.Tab.0.center" timestamp="1609245769583">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609244669139" />
-    <state width="1398" height="238" key="GridCell.Tab.0.left" timestamp="1609244669138">
+    <state width="1398" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609245769583" />
+    <state width="1398" height="238" key="GridCell.Tab.0.left" timestamp="1609245769582">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609244669137" />
-    <state width="1398" height="238" key="GridCell.Tab.0.right" timestamp="1609244669140">
+    <state width="1398" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609245769582" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right" timestamp="1609245769584">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609244669140" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609245769584" />
     <state x="245" y="-901" key="SettingsEditor" timestamp="1601712596056">
       <screen x="-288" y="-1080" width="2048" height="1080" />
     </state>
