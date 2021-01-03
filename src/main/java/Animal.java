@@ -9,4 +9,6 @@ public class Animal {
     public void voiceAnimal() {
         System.out.println("Voice Animal");
     }
+
+
 }
