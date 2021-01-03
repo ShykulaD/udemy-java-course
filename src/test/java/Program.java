@@ -7,8 +7,9 @@ public class Program {
 //        Dog dog = new Dog();
 //        Animal dog2 = new Dog();
 
-//        Animal a1 = new Animal();
-//        Animal a2 = new Dog();
+        Animal a1 = new Animal();
+        Animal a2 = new Dog();
+        a1.voiceAnimal();
 
 
 
